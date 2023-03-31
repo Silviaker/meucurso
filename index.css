@@ -20,12 +20,11 @@ html,body{
     padding: 40px;
 }
 .textori{
-    padding: 40px;
     justify-content: center;
     align-items: center;
     width: 17em;
     height: 25em;
-    margin: auto;
+    margin: 0 auto;
     text-align: center;
     border-radius: 20px;
     border: 2px solid #ffffff29;
